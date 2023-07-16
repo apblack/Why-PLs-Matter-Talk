@@ -1,0 +1,24 @@
+Talk Title
+
+	Why Programming Languages Matter
+
+Talk Abstract
+
+	I’ve spent most of my professional life working on programming languages: studying them, designing them, defining their semantics, comparing features, and even implementing them (mostly poorly).  Why would an otherwise-sane person do such a thing?  Because programming languages are the ultimate meta-tool: they give you the ability to create from pure thought.  And yet: a programming language is not just a means for programmers to communicate with computers—it is also a means for programmers to communicate with programmers.  That is: a good programming language is a social, as well as a technical, enabler.
+
+	This talk will take a bumpy ride through the challenges and opportunities associated with the six languages that I’ve played a part in developing over the past forty-five years—most of which you won’t have heard of.  Why do new languages face an uphill struggle for acceptance?  What are the challenges facing the next generation of languages and language designers?  Why should you care about any of this?  Because those who do not know the past are doomed to repeat it.
+	
+Speaker Bio
+
+	Andrew Black is an Emeritus Professor of Computer Science at Portland State University.  His first programming language was Algol 60, an accident for which he will always be grateful.  As a graduate student, he at first refused a request to teach Fortran to undergraduates, on the grounds that it was unfair to subject students to such a language; he relented when his supervisor (Tony Hoare) pointed out that if the students were going to learn Fortran from someone, it would be better if they learned it from a teacher who understood its many deficiencies.  Later, but after his involvement with the Emerald programming language, he learned, taught and contributed to Smalltalk, an encounter that permanently re-arranged his brain cells.
+
+	As well as teaching at four universities, Professor Black has worked in the laboratories of four major companies (two of which still exist).  He has published over 100 research papers, and been involved in the design, development and implementation of six programming languages. For the past ten years he has been the BDFL of the Grace Educational Programming Language, and the major committer to the minigrace implementation. 
+
+Speaker title/affiliation
+
+	Emeritus Professor, Portland State University
+
+
+Github: 
+
+https://github.com/gracelang/minigrace
